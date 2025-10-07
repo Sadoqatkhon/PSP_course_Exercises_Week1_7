@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\bin\Debug\PSP_course_Exercise_Week1_7.exe.config
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\bin\Debug\PSP_course_Exercise_Week1_7.exe
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\bin\Debug\PSP_course_Exercise_Week1_7.pdb
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\obj\Debug\PSP_course_Exercise_Week1_7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\obj\Debug\PSP_course_Exercise_Week1_7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\obj\Debug\PSP_course_Exercise_Week1_7.exe
+C:\Users\User\source\repos\PSP_course_Exercise_Week1_7\PSP_course_Exercise_Week1_7\obj\Debug\PSP_course_Exercise_Week1_7.pdb
